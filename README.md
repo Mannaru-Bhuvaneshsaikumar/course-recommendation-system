@@ -1,7 +1,5 @@
 # course-recommendation-system
-<p align="center">
-  <img src="https://your-banner-link-here.png" alt="Online Course Recommendation System Banner" />
-</p>
+
 
 
 # 📚 Online Course Recommendation System
